@@ -1,3 +1,4 @@
+"""
 Um herauszufinden, was zuletzt auf deinem Linux-System passiert ist, gibt es mehrere Befehle und Logdateien, 
 die dir helfen können. Hier sind einige nützliche Linux-Befehle:
 
@@ -34,3 +35,5 @@ Du kannst sie mit `cat` oder `less` anzeigen.
     cat /var/log/syslog
 
 Diese Befehle sollten dir eine gute Übersicht über die letzten Ereignisse auf deinem Linux-System geben. Je nach Distribution und Konfiguration können die genauen Dateipfade variieren. Du kannst auch spezifischere Logdateien in den Verzeichnissen `/var/log` überprüfen, um mehr Informationen zu erhalten.
+"""
+print(index)
